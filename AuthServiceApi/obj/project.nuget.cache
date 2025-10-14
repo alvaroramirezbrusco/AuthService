@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mJ7xsFFBZy0=",
+  "dgSpecHash": "5KWQ2+k9yFQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fedea\\Desktop\\AuthServiceApi\\AuthServiceApi\\AuthServiceApi.csproj",
+  "projectFilePath": "D:\\AuthService\\AuthServiceApi\\AuthServiceApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fedea\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\fedea\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

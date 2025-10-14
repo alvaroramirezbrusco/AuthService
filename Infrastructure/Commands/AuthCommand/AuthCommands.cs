@@ -24,7 +24,9 @@ namespace Infrastructure.Commands.AuthCommand
                 Phone = user.Phone,
                 RoleId = user.RoleId
             };
-            _context.Users.Add(userInsert);
+            await _context.Users.Add(userInsert)
+                .Reference(u => u.Role)
+                .LoadAsync();
             await _context.SaveChangesAsync();
             return await MapToResponse(userInsert);
         }

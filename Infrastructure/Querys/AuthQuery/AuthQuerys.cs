@@ -1,13 +1,7 @@
 ﻿using Application.Interfaces.AuthInterface;
 using Application.Models.UserModel;
-using Domain.Entities;
 using Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Infrastructure.Querys.AuthQuery
 {
@@ -22,13 +16,14 @@ namespace Infrastructure.Querys.AuthQuery
         public async Task<UserResponseDTO> Get(LoginUserDTO login)
         {
             var user = await _context.Users
+                .Include(u => u.Role)
                 .FirstOrDefaultAsync(u => u.Email == login.Email && u.Password == login.Password);
             if (user == null)
             {
                 throw new ArgumentException("Usuario no encontrado");
                 return null;
             }
-            var userDTO = new UserResponseDTO
+            var userResponse = new UserResponseDTO
             {
                 Id = user.Id,
                 Name = user.Name,
@@ -39,20 +34,21 @@ namespace Infrastructure.Querys.AuthQuery
                 RoleId = user.RoleId,
                 RoleName = user.Role.Name
             };
-            return userDTO;
+            return await Task.FromResult(userResponse);
 
         }
 
         public async Task<UserResponseDTO> GetById(Guid id)
         {
             var user = await _context.Users
+                .Include(u => u.Role)
                 .FirstOrDefaultAsync(u => u.Id == id);
             if (user == null)
             {
                 throw new ArgumentException("Usuario no encontrado");
                 return null;
             }
-            var userDTO = new UserResponseDTO
+            var userResponse = new UserResponseDTO
             {
                 Id = user.Id,
                 Name = user.Name,
@@ -63,7 +59,7 @@ namespace Infrastructure.Querys.AuthQuery
                 RoleId = user.RoleId,
                 RoleName = user.Role.Name
             };
-            return userDTO;
+            return await Task.FromResult(userResponse);
         }
     }
 }

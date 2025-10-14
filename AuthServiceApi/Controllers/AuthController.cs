@@ -26,7 +26,7 @@ namespace AuthServiceApi.Controllers
         }
 
         // Get: api/auth/login
-        [HttpGet("login")]
+        [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginUserDTO login)
         {
             if (login == null || string.IsNullOrEmpty(login.Email) || string.IsNullOrEmpty(login.Password))
@@ -39,7 +39,6 @@ namespace AuthServiceApi.Controllers
 
         // GET: api/auth/me
         [HttpGet("me")]
-        [Authorize]
         public async Task<IActionResult> GetCurrentUser(Guid Id)
         {
             var result = await _authService.GetCurrentUser(Id);

@@ -3,7 +3,7 @@
     "ContainingType": "AuthServiceApi.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [

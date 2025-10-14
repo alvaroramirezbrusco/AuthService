@@ -28,19 +28,19 @@
   },
   "packageFolders": {
     "C:\\Users\\fedea\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fedea\\Desktop\\AuthServiceApi\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\AuthService\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\fedea\\Desktop\\AuthServiceApi\\Application\\Application.csproj",
+      "projectPath": "D:\\AuthService\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\fedea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fedea\\Desktop\\AuthServiceApi\\Application\\obj\\",
+      "outputPath": "D:\\AuthService\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\fedea\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fedea\\Desktop\\AuthServiceApi\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\fedea\\Desktop\\AuthServiceApi\\Domain\\Domain.csproj"
+            "D:\\AuthService\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\AuthService\\Domain\\Domain.csproj"
             }
           }
         }
