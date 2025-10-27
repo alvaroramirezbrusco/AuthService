@@ -22,8 +22,8 @@ namespace Infrastructure.Commands.UserCommand
         {
             User u = new User
             {
-                Id = user.Id,
                 Name = user.Name,
+                LastName = user.LastName,
                 Email = user.Email,
                 Password = user.Password,
                 Phone = user.Phone,
@@ -35,6 +35,7 @@ namespace Infrastructure.Commands.UserCommand
             {
                 Id = u.Id,
                 Name = u.Name,
+                LastName = u.LastName,
                 Email = u.Email,
                 Password = u.Password,
                 Phone = u.Phone,

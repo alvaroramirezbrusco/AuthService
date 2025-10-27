@@ -1,9 +1,12 @@
-using Application.Interfaces.AuthInterface;
+using Application.Interfaces.RoleInterfaces;
+using Application.Interfaces.UserInterfaces;
+using Application.UseCase.RoleUseCase;
+using Application.UseCase.UserUseCase;
+using Infrastructure.Commands.UserCommand;
 using Infrastructure.Persistence;
-using Infrastructure.Commands.AuthCommand;
-using Infrastructure.Querys.AuthQuery;
+using Infrastructure.Querys.RoleQuery;
+using Infrastructure.Querys.UserQuery;
 using Microsoft.EntityFrameworkCore;
-using Application.UseCase.AuthUseCase;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,9 +17,12 @@ builder.Services.AddSwaggerGen();
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
 
-builder.Services.AddScoped<IAuthCommand, AuthCommands>();
-builder.Services.AddScoped<IAuthQuery, AuthQuerys>();
-builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IUserCommand, UserCommand>();
+builder.Services.AddScoped<IUserQuery, UserQuery>();
+builder.Services.AddScoped<IUserService, UserService>();
+
+builder.Services.AddScoped<IRoleQuery, RoleQuery>();
+builder.Services.AddScoped<IRoleService, RoleService>();
 
 var app = builder.Build();
 

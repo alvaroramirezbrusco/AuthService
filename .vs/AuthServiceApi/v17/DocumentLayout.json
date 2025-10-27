@@ -7,18 +7,6 @@
       "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\interfaces\\userinterfaces\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\interfaces\\userinterfaces\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\models\\usermodels\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\usermodels\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\interfaces\\userinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\interfaces\\userinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\usecase\\userusecase\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\usecase\\userusecase\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,24 +19,16 @@
       "RelativeMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\commands\\usercommand\\usercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\interfaces\\userinterfaces\\iusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\interfaces\\userinterfaces\\iusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\models\\usermodels\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\usermodels\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F4E5BA-BD31-4660-9DCF-9A6104971DD9}|Domain\\Domain.csproj|d:\\authservice\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F4E5BA-BD31-4660-9DCF-9A6104971DD9}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\interfaces\\userinterfaces\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\interfaces\\userinterfaces\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|d:\\authservice\\application\\models\\usermodels\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\usermodels\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90F4E5BA-BD31-4660-9DCF-9A6104971DD9}|Domain\\Domain.csproj|d:\\authservice\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F4E5BA-BD31-4660-9DCF-9A6104971DD9}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|d:\\authservice\\authserviceapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,149 +38,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserLoginDTO.cs",
-              "DocumentMoniker": "D:\\AuthService\\Application\\Models\\UserModels\\UserLoginDTO.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\UserModels\\UserLoginDTO.cs",
-              "ToolTip": "D:\\AuthService\\Application\\Models\\UserModels\\UserLoginDTO.cs",
-              "RelativeToolTip": "Application\\Models\\UserModels\\UserLoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:17:32.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\AuthService\\Application\\UseCase\\UserUseCase\\UserService.cs",
-              "RelativeDocumentMoniker": "Application\\UseCase\\UserUseCase\\UserService.cs",
-              "ToolTip": "D:\\AuthService\\Application\\UseCase\\UserUseCase\\UserService.cs",
-              "RelativeToolTip": "Application\\UseCase\\UserUseCase\\UserService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:04:52.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\UserInterfaces\\IUserService.cs",
-              "ToolTip": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\UserInterfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:02:23.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserQuery.cs",
-              "DocumentMoniker": "D:\\AuthService\\Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "ToolTip": "D:\\AuthService\\Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "RelativeToolTip": "Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:55:27.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserResponseDTO.cs",
-              "DocumentMoniker": "D:\\AuthService\\Application\\Models\\UserModels\\UserResponseDTO.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\UserModels\\UserResponseDTO.cs",
-              "ToolTip": "D:\\AuthService\\Application\\Models\\UserModels\\UserResponseDTO.cs",
-              "RelativeToolTip": "Application\\Models\\UserModels\\UserResponseDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:53:19.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserQuery.cs",
-              "DocumentMoniker": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
-              "ToolTip": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
-              "RelativeToolTip": "Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:52:25.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "UserCommand.cs",
               "DocumentMoniker": "D:\\AuthService\\Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
               "ToolTip": "D:\\AuthService\\Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
               "RelativeToolTip": "Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwCoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwCUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:41:24.211Z",
+              "WhenOpened": "2025-10-24T14:15:58.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\AuthService\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "D:\\AuthService\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "D:\\AuthService\\Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
+              "ToolTip": "D:\\AuthService\\Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
+              "RelativeToolTip": "Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:39:31.715Z",
+              "WhenOpened": "2025-10-24T14:15:09.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "IUserQuery.cs",
+              "DocumentMoniker": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
+              "ToolTip": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\UserInterfaces\\IUserQuery.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:14:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\AuthService\\Application\\UseCase\\UserUseCase\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\UserUseCase\\UserService.cs",
+              "ToolTip": "D:\\AuthService\\Application\\UseCase\\UserUseCase\\UserService.cs",
+              "RelativeToolTip": "Application\\UseCase\\UserUseCase\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewCsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:14:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserRequestDTO.cs",
               "DocumentMoniker": "D:\\AuthService\\Application\\Models\\UserModels\\UserRequestDTO.cs",
               "RelativeDocumentMoniker": "Application\\Models\\UserModels\\UserRequestDTO.cs",
               "ToolTip": "D:\\AuthService\\Application\\Models\\UserModels\\UserRequestDTO.cs",
               "RelativeToolTip": "Application\\Models\\UserModels\\UserRequestDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:39:24.083Z",
+              "WhenOpened": "2025-10-24T14:13:54.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserCommand.cs",
-              "DocumentMoniker": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\UserInterfaces\\IUserCommand.cs",
-              "ToolTip": "D:\\AuthService\\Application\\Interfaces\\UserInterfaces\\IUserCommand.cs",
-              "RelativeToolTip": "Application\\Interfaces\\UserInterfaces\\IUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\AuthService\\AuthServiceApi\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "AuthServiceApi\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\AuthService\\AuthServiceApi\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "AuthServiceApi\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:37:08.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\AuthService\\Domain\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
-              "ToolTip": "D:\\AuthService\\Domain\\Entities\\Role.cs",
-              "RelativeToolTip": "Domain\\Entities\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T22:28:15.235Z",
+              "WhenOpened": "2025-10-24T14:09:45.259Z",
               "EditorCaption": ""
             },
             {
@@ -211,9 +126,9 @@
               "RelativeDocumentMoniker": "AuthServiceApi\\Controllers\\UserController.cs",
               "ToolTip": "D:\\AuthService\\AuthServiceApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "AuthServiceApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T22:52:08.126Z",
+              "WhenOpened": "2025-10-24T14:09:44.685Z",
               "EditorCaption": ""
             }
           ]

@@ -17,9 +17,10 @@ namespace Application.UseCase.UserUseCase
             throw new NotImplementedException();
         }
 
-        public Task<List<UserResponseDTO>> GetAllUsers()
+        public async Task<List<UserResponseDTO>> GetAllUsers()
         {
-            throw new NotImplementedException();
+            List<UserResponseDTO> users = await _userQuery.GetAllUsers();
+            return users;
         }
 
         public async Task<UserResponseDTO> Login(UserLoginDTO login)
@@ -33,7 +34,7 @@ namespace Application.UseCase.UserUseCase
 
         public async Task<UserResponseDTO> RegisterUser(UserRequestDTO user)
         {
-            if (_userQuery.ExistUser(user.Id).Result == true)
+            if (_userQuery.ExistUser(user.Email).Result == true)
             {
                 throw new ArgumentException("User already exist");
             }
@@ -49,6 +50,6 @@ namespace Application.UseCase.UserUseCase
         {
             throw new NotImplementedException();
         }
-        }
+        
     }
 }

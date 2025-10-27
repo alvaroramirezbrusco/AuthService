@@ -347,6 +347,7 @@ D:\AuthService\AuthServiceApi\obj\Debug\net8.0\staticwebassets.build.json
 D:\AuthService\AuthServiceApi\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\AuthService\AuthServiceApi\obj\Debug\net8.0\staticwebassets.development.json
 D:\AuthService\AuthServiceApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\AuthService\AuthServiceApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\AuthService\AuthServiceApi\obj\Debug\net8.0\AuthServ.1CEA5F65.Up2Date
 D:\AuthService\AuthServiceApi\obj\Debug\net8.0\AuthServiceApi.dll
 D:\AuthService\AuthServiceApi\obj\Debug\net8.0\refint\AuthServiceApi.dll

@@ -7,6 +7,6 @@ namespace Application.Interfaces.UserInterfaces
         Task<UserResponseDTO> GetUser(Guid Id);
         Task<UserResponseDTO> Login(string email, string password);
         Task<List<UserResponseDTO>> GetAllUsers();
-        Task<bool> ExistUser(Guid Id);
+        Task<bool> ExistUser(string email);
     }
 }

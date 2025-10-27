@@ -1,47 +1,57 @@
 [
   {
-    "ContainingType": "AuthServiceApi.Controllers.AuthController",
-    "Method": "Login",
-    "RelativePath": "api/Auth/login",
-    "HttpMethod": "POST",
+    "ContainingType": "AuthServiceApi.Controllers.RoleController",
+    "Method": "GetRoleById",
+    "RelativePath": "api/Role/{roleId}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "login",
-        "Type": "Application.Models.UserModel.LoginUserDTO",
+        "Name": "roleId",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "AuthServiceApi.Controllers.AuthController",
-    "Method": "GetCurrentUser",
-    "RelativePath": "api/Auth/me",
+    "ContainingType": "AuthServiceApi.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthServiceApi.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Id",
-        "Type": "System.Guid",
-        "IsRequired": false
+        "Name": "login",
+        "Type": "Application.Models.UserModels.UserLoginDTO",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "AuthServiceApi.Controllers.AuthController",
+    "ContainingType": "AuthServiceApi.Controllers.UserController",
     "Method": "Register",
-    "RelativePath": "api/Auth/register",
+    "RelativePath": "api/User/register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "user",
-        "Type": "Application.Models.UserModel.UserRequestDTO",
+        "Type": "Application.Models.UserModels.UserRequestDTO",
         "IsRequired": true
       }
     ],

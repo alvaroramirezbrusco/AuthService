@@ -17,15 +17,16 @@ namespace AuthServiceApi.Controllers
 
         // POST: api/user/register
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] UserRequestDTO user)
+        public async Task<IActionResult> Register(UserRequestDTO user)
         {
+            if (user.Email.ToLower())
             var result = await _userService.RegisterUser(user);
             return new JsonResult(result);
         }
 
         // Get: api/user/login
         [HttpGet("login")]
-        public async Task<IActionResult> Login([FromBody] UserLoginDTO login)
+        public async Task<IActionResult> Login(UserLoginDTO login)
         {
             var result = await _userService.Login(login);
             return new JsonResult(result);

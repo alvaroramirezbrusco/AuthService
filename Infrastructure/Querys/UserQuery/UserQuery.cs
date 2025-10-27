@@ -14,9 +14,9 @@ namespace Infrastructure.Querys.UserQuery
             _context = context;
         }
 
-        public async Task<bool> ExistUser(Guid Id)
+        public async Task<bool> ExistUser(string email)
         {
-            return await _context.Users.AnyAsync(u => u.Id == Id);
+            return await _context.Users.AnyAsync(u => u.Email == email.ToLower());
         }
 
         public async Task<List<UserResponseDTO>> GetAllUsers()
