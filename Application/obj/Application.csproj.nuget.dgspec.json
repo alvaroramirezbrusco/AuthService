@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Application\\Application.csproj": {}
+    "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Application/Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Application\\Application.csproj": {
+    "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Application\\Application.csproj",
+        "projectUniqueName": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\tonel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Application\\obj\\",
+        "projectPath": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Application/Application.csproj",
+        "packagesPath": "/home/santiagolovisotto/.nuget/packages/",
+        "outputPath": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tonel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/santiagolovisotto/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Domain\\Domain.csproj"
+              "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Domain/Domain.csproj": {
+                "projectPath": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Domain/Domain.csproj"
               }
             }
           }
@@ -38,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -78,28 +71,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Domain\\Domain.csproj": {
+    "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Domain\\Domain.csproj",
+        "projectUniqueName": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\tonel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Domain\\obj\\",
+        "projectPath": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Domain/Domain.csproj",
+        "packagesPath": "/home/santiagolovisotto/.nuget/packages/",
+        "outputPath": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tonel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/santiagolovisotto/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -112,11 +103,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -138,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

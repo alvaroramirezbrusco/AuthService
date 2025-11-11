@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S2KSEE30ZFIfjZEDXM6da6OVHN8ruoc9U+LAdGdQ4a+gT+eozyQZ1gSnenpPl94vOW5x9EBBW4Syybsen2gZwA==",
+  "dgSpecHash": "vaIk1mE7Cw/rwmMGio3Edv74fgkgAuGDo0ybbJCzlxDnACd/Maidlk530eX0hVErByi7QdYyKLgmFpBZ6nLlnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonel\\OneDrive\\Desktop\\AuthService\\Domain\\Domain.csproj",
+  "projectFilePath": "/home/santiagolovisotto/Documents/Github/Ticketech/AuthService/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
