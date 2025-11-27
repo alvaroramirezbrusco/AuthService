@@ -1,4 +1,4 @@
-﻿using Application.Interfaces.UserInterface;
+﻿using Application.Interfaces.Query;
 using Application.Models.AuthModels.Login;
 using Application.Models.UserModels;
 using Application.UseCase.HashUseCase;

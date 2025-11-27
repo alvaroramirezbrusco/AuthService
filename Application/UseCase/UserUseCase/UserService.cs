@@ -1,7 +1,9 @@
 ﻿using Application.Interfaces.HelperInterface;
+using Application.Interfaces.Query;
 using Application.Interfaces.UserInterface;
 using Application.Models.AuthModels.Login;
 using Application.Models.AuthModels.Register;
+using Application.Models.Request;
 using Application.Models.UserModels;
 using Domain.Entities;
 using Microsoft.Extensions.Configuration;
@@ -35,13 +37,9 @@ namespace Application.UseCase.UserUseCase
             if (request.CurrentPassword == request.NewPassword)
                 throw new ArgumentException("La nueva contraseña no puede ser igual a la actual");
             if (request.NewPassword.Length <= 8)
-            {
                 throw new ArgumentException("Ingrese una contraseña segura (Que contenga más de 8 caracteres)");
-            }
             if (!carac.Any(c => request.NewPassword.Contains(c)))
-            {
                 throw new ArgumentException("La contraseña debe contener caracteres especiales. Ejemplo: @, _, -, $, #, &, /)");
-            }
 
             request.CurrentPassword = _hash.encryptSHA256(request.CurrentPassword);
             request.NewPassword = _hash.encryptSHA256(request.NewPassword);

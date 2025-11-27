@@ -1,0 +1,54 @@
+# Archivos de usuario y configuración local
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilación
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Archivos de test y resultados
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Archivos de publicación
+publish/
+*.pubxml
+*.publishproj
+
+# Archivos de configuración de IDE
+*.dbmdl
+*.jfm
+*.pdb
+
+# Archivos generados por VS
+FileContentIndex/
+Generated\ Files/
+
+# Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de backup
+*.bak
+*.tmp
+*.log
+
+# Otros
+*.swp
+*.lock

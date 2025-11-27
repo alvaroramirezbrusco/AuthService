@@ -10,3 +10,15 @@ C:\Users\tonel\onedrive\desktop\authservice\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\tonel\onedrive\desktop\authservice\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\tonel\onedrive\desktop\authservice\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\tonel\onedrive\desktop\authservice\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Diego\source\repos\AuthService\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Diego\source\repos\AuthService\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Diego\source\repos\AuthService\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Diego\source\repos\AuthService\Domain\obj\Debug\net8.0\ref\Domain.dll

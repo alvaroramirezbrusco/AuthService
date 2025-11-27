@@ -1,5 +1,6 @@
 ﻿using Application.Models.AuthModels.Login;
 using Application.Models.AuthModels.Register;
+using Application.Models.Request;
 using Application.Models.UserModels;
 using Domain.Entities;
 

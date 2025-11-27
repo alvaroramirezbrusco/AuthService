@@ -2,7 +2,7 @@
 using Application.Models.UserModels;
 using Domain.Entities;
 
-namespace Application.Interfaces.UserInterface
+namespace Application.Interfaces.Query
 {
     public interface IUserQuery
     {

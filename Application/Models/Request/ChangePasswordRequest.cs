@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Models.UserModels
+namespace Application.Models.Request
 {
-    public class ChangeUserRoleRequest
+    public class ChangePasswordRequest
     {
         public Guid UserId { get; set; }
-        public int NewRole { get; set; }
+        public string CurrentPassword { get; set; }
+        public string NewPassword { get; set; }
     }
 }

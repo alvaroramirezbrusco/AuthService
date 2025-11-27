@@ -1,4 +1,5 @@
 using Application.Interfaces.HelperInterface;
+using Application.Interfaces.Query;
 using Application.Interfaces.UserInterface;
 using Application.UseCase.HashUseCase;
 using Application.UseCase.UserUseCase;
@@ -8,6 +9,7 @@ using Infrastructure.Querys.UserQuery;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using System.Reflection;
 using System.Security.Claims;
 using System.Text;
 
@@ -59,6 +61,8 @@ builder.Services.AddScoped<IUserCommand, UserCommand>();
 builder.Services.AddScoped<IUserQuery, UserQuery>();
 
 builder.Services.AddScoped<IHashingService, HashingService>();
+
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.Load("Application")));
 
 var app = builder.Build();
 

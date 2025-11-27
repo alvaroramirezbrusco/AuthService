@@ -1,4 +1,4 @@
-﻿using Application.Models.UserModels;
+﻿using Application.Models.Request;
 using Domain.Entities;
 
 namespace Application.Interfaces.UserInterface

@@ -1,6 +1,6 @@
 ﻿using Application.Interfaces.UserInterface;
 using Application.Models.AuthModels.Register;
-using Application.Models.UserModels;
+using Application.Models.Request;
 using Domain.Entities;
 using Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
@@ -23,17 +23,25 @@ namespace Infrastructure.Commands.UserCommand
         public async Task<bool> ChangePassword(ChangePasswordRequest request)
         {
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Id == request.UserId);
+
             if (user == null)
             {
                 return false;
             }
-            if (user.Password != request.CurrentPassword)
+
+            var dbBytes = Encoding.UTF8.GetBytes(user.Password);
+            var reqBytes = Encoding.UTF8.GetBytes(request.CurrentPassword);
+
+            if (!user.Password.Trim().Equals(request.CurrentPassword.Trim(), StringComparison.OrdinalIgnoreCase))
             {
                 return false;
             }
+
             user.Password = request.NewPassword;
             _context.Users.Update(user);
+
             await _context.SaveChangesAsync();
+
             return true;
         }
 

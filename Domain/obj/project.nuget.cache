@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KI/AWYTfzds=",
+  "dgSpecHash": "i7P+bkZGtCA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonel\\onedrive\\desktop\\authservice\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tonel\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
-    "C:\\Users\\tonel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
-    "C:\\Users\\tonel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
