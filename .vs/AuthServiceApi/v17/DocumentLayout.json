@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\command\\changeuserrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\command\\changeuserrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -166,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -190,20 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\LoginHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginHandler.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Query\\LoginHandler.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:48:32.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IUserQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Interfaces\\Query\\IUserQuery.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\Query\\IUserQuery.cs",
@@ -216,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
@@ -229,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ChangeUserRoleHandler.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
@@ -242,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Models\\Response\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Response\\LoginResponseDTO.cs",
@@ -255,7 +242,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthServiceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\appsettings.json",
+              "RelativeToolTip": "AuthServiceApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T17:16:02.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\LoginHandler.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginHandler.cs",
+              "RelativeToolTip": "Application\\Features\\User\\Query\\LoginHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:48:32.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LoginQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\LoginQuery.cs",
@@ -268,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
@@ -281,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Program.cs",
               "RelativeDocumentMoniker": "AuthServiceApi\\Program.cs",
@@ -294,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RegisterHandler.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Features\\User\\Command\\RegisterHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\RegisterHandler.cs",
@@ -307,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
@@ -320,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ChangeUserRoleCommand.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangeUserRoleCommand.cs",
@@ -333,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HashingService.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\HashingService\\HashingService.cs",
               "RelativeDocumentMoniker": "Application\\HashingService\\HashingService.cs",
@@ -346,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GetAllUsersHandler.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\GetAllUsersHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\GetAllUsersHandler.cs",
@@ -359,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GetAllUsersQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\GetAllUsersQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\GetAllUsersQuery.cs",
@@ -372,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "AuthServiceApi\\Controllers\\UserController.cs",
@@ -385,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UserResponse.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\UserResponse.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Response\\UserResponse.cs",
@@ -398,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "AuthServiceApi\\Controllers\\RoleController.cs",
@@ -411,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GetAllRolesHandler.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetAllRolesHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetAllRolesHandler.cs",
@@ -424,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "RegisterCommand.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Features\\User\\Command\\RegisterCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\RegisterCommand.cs",
@@ -437,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ChangePasswordHandler.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
@@ -450,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ChangePasswordCommand.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangePasswordCommand.cs",
@@ -463,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "GetAllRolesQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetAllRolesQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetAllRolesQuery.cs",
@@ -476,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "GetRoleByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetRoleByIdHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetRoleByIdHandler.cs",
@@ -489,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "GetRoleByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetRoleByIdQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetRoleByIdQuery.cs",
@@ -502,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "RoleResponse.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\RoleResponse.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Response\\RoleResponse.cs",
@@ -515,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "GenericResponse.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\GenericResponse.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Response\\GenericResponse.cs",
@@ -528,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "StatusResponse.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\StatusResponse.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Response\\StatusResponse.cs",
@@ -541,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "IRoleQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Query\\IRoleQuery.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\Query\\IRoleQuery.cs",
@@ -554,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "RoleQuery.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Querys\\RoleQuery\\RoleQuery.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Querys\\RoleQuery\\RoleQuery.cs",
@@ -567,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Command\\IUserCommand.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\Command\\IUserCommand.cs",
@@ -580,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ChangeUserRoleRequest.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Models\\Request\\ChangeUserRoleRequest.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Request\\ChangeUserRoleRequest.cs",
@@ -593,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ChangePasswordRequest.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Models\\Request\\ChangePasswordRequest.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Request\\ChangePasswordRequest.cs",
@@ -606,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ConflictException.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Exceptions\\ConflictException.cs",
               "RelativeDocumentMoniker": "Application\\Exceptions\\ConflictException.cs",
@@ -619,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "AuthServiceApi\\Middleware\\ExceptionMiddleware.cs",
@@ -632,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "Application\\Models\\Request\\RegisterRequest.cs",
@@ -641,19 +654,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T16:53:06.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthServiceApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\appsettings.json",
-              "RelativeToolTip": "AuthServiceApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-27T17:16:02.908Z",
               "EditorCaption": ""
             },
             {

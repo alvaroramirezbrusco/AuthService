@@ -166,21 +166,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Models\\Response\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Response\\LoginResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Models\\Response\\LoginResponseDTO.cs",
-              "RelativeToolTip": "Application\\Models\\Response\\LoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T20:05:11.283Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -246,11 +233,24 @@
               "Title": "ChangeUserRoleHandler.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
               "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs*",
-              "RelativeToolTip": "Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAABIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
+              "RelativeToolTip": "Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T18:46:54.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Models\\Response\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Response\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Models\\Response\\LoginResponseDTO.cs",
+              "RelativeToolTip": "Application\\Models\\Response\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T20:05:11.283Z",
               "EditorCaption": ""
             },
             {

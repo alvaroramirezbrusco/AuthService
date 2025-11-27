@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Application.csproj": {
+    "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\Domain.csproj"
+              "C:\\Users\\Diego\\source\\repos\\AuthService\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Domain\\Domain.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\Domain.csproj": {
+    "C:\\Users\\Diego\\source\\repos\\AuthService\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\AuthService\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -184,8 +184,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Application.csproj"
+              "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Application.csproj"
               }
             }
           }

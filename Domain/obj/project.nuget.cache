@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i7P+bkZGtCA=",
+  "dgSpecHash": "y4XWf4s3M78=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
