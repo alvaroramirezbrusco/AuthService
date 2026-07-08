@@ -4525,11 +4525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4550,8 +4550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Application.csproj"
+            "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\Application\\Application.csproj"
             }
           }
         }
@@ -4566,7 +4566,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4603,7 +4603,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.109/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
