@@ -645,3 +645,5 @@ C:\Users\Diego\source\repos\AuthService\AuthServiceApi\bin\Debug\net8.0\refs\Sys
 C:\Users\Diego\source\repos\AuthService\AuthServiceApi\bin\Debug\net8.0\refs\System.Xml.XPath.dll
 C:\Users\Diego\source\repos\AuthService\AuthServiceApi\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
 C:\Users\Diego\source\repos\AuthService\AuthServiceApi\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\Users\Diego\Source\Repos\AuthService\AuthServiceApi\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Diego\Source\Repos\AuthService\AuthServiceApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

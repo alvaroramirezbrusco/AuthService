@@ -21,13 +21,13 @@ namespace Application.Features.User.Handlers
 
         public async Task<StatusResponse> Handle(ChangeUserRoleCommand command, CancellationToken cancellationToken)
         {
-            if (!await _userQuery.ExistUser(command.userId))
-                throw new KeyNotFoundException("Usuario no encontrado");
-
             if (command.request.NewRole <= 0)
             {
                 throw new ArgumentException("El role ingresado es inválido.");
             }
+
+            if (!await _userQuery.ExistUser(command.userId))
+                throw new KeyNotFoundException("Usuario no encontrado");
 
             var role = await _roleQuery.GetByIdAsync(command.request.NewRole);
 
@@ -39,7 +39,7 @@ namespace Application.Features.User.Handlers
             var success = await _userCommand.ChangeUserRole(command.userId, command.request.NewRole);
 
             if (!success)
-                throw new Exception("No se pudo actualizar el rol del usuario");
+                throw new InvalidOperationException("No se pudo actualizar el rol del usuario");
 
             return new StatusResponse
             {

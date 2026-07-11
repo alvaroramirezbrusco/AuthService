@@ -3,156 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\AuthService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\authserviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\authserviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\command\\changeuserrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\command\\changeuserrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|c:\\users\\diego\\source\\repos\\authservice\\infrastructure\\commands\\usercommand\\usercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\commands\\usercommand\\usercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\interfaces\\query\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\interfaces\\query\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\response\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\response\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\command\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\command\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\query\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\query\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\query\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\query\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|c:\\users\\diego\\source\\repos\\authservice\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|c:\\users\\diego\\source\\repos\\authservice\\infrastructure\\querys\\userquery\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\querys\\userquery\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\command\\changeuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\command\\changeuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\hashingservice\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\hashingservice\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\query\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\query\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\query\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\query\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|c:\\users\\diego\\source\\repos\\authservice\\authserviceapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCDD1423-AE30-407F-B135-0BF05D50BB63}|AuthServiceApi\\AuthServiceApi.csproj|solutionrelative:authserviceapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\role\\query\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\role\\query\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\command\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\command\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B9C7203-3CDF-4C7D-92AB-532106D4DE1D}|AuthTest\\AuthTest.csproj|c:\\users\\diego\\source\\repos\\authservice\\authtest\\user\\command\\changepasswordhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9C7203-3CDF-4C7D-92AB-532106D4DE1D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\user\\command\\changepasswordhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\command\\changepasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\command\\changepasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\user\\command\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\user\\command\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\role\\query\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\role\\query\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\role\\query\\getrolebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\role\\query\\getrolebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\features\\role\\query\\getrolebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\features\\role\\query\\getrolebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\response\\roleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\response\\roleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\response\\statusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\response\\statusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|c:\\users\\diego\\source\\repos\\authservice\\infrastructure\\querys\\rolequery\\rolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D03453-BADC-4F33-B85F-4578570383D9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\querys\\rolequery\\rolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\interfaces\\query\\irolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\interfaces\\query\\irolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\interfaces\\command\\iusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\interfaces\\command\\iusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\request\\changeuserrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\request\\changeuserrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\request\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\request\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|c:\\users\\diego\\source\\repos\\authservice\\application\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D24B2F1-2EA0-4DC7-93FC-0CF736B28233}|Application\\Application.csproj|solutionrelative:application\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B9C7203-3CDF-4C7D-92AB-532106D4DE1D}|AuthTest\\AuthTest.csproj|c:\\users\\diego\\source\\repos\\authservice\\authtest\\user\\command\\changeuserroletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9C7203-3CDF-4C7D-92AB-532106D4DE1D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\user\\command\\changeuserroletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangePasswordHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthTest\\User\\Command\\ChangePasswordHandlerTests.cs",
+              "RelativeDocumentMoniker": "AuthTest\\User\\Command\\ChangePasswordHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthTest\\User\\Command\\ChangePasswordHandlerTests.cs",
+              "RelativeToolTip": "AuthTest\\User\\Command\\ChangePasswordHandlerTests.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAIwJsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T22:01:30.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePasswordHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
+              "RelativeToolTip": "Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswCAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T22:00:51.393Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -182,469 +68,20 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Program.cs",
-              "RelativeDocumentMoniker": "AuthServiceApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Program.cs",
-              "RelativeToolTip": "AuthServiceApi\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:08:09.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "AuthServiceApi\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "AuthServiceApi\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:05:56.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthServiceApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\AuthServiceApi\\AuthServiceApi.csproj",
-              "RelativeDocumentMoniker": "AuthServiceApi\\AuthServiceApi.csproj",
-              "ToolTip": "C:\\Users\\Diego\\Source\\Repos\\AuthService\\AuthServiceApi\\AuthServiceApi.csproj",
-              "RelativeToolTip": "AuthServiceApi\\AuthServiceApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-29T18:23:30.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
-              "RelativeToolTip": "Infrastructure\\Commands\\UserCommand\\UserCommand.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
+              "Title": "ChangeUserRoleTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthTest\\User\\Command\\ChangeUserRoleTests.cs",
+              "RelativeDocumentMoniker": "AuthTest\\User\\Command\\ChangeUserRoleTests.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthTest\\User\\Command\\ChangeUserRoleTests.cs",
+              "RelativeToolTip": "AuthTest\\User\\Command\\ChangeUserRoleTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:22:15.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChangeUserRoleHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Command\\ChangeUserRoleHandler.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:46:54.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Response\\LoginResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\LoginResponseDTO.cs",
-              "RelativeToolTip": "Application\\Models\\Response\\LoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T20:05:11.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthServiceApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\appsettings.json",
-              "RelativeToolTip": "AuthServiceApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-27T17:16:02.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Query\\IUserQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Query\\IUserQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Query\\IUserQuery.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Query\\IUserQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:01:21.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\LoginHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginHandler.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Query\\LoginHandler.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:48:32.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\LoginQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\LoginQuery.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Query\\LoginQuery.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:48:21.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T20:03:17.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\RegisterHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\RegisterHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\RegisterHandler.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Command\\RegisterHandler.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAwwAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:49:09.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "RelativeToolTip": "Infrastructure\\Querys\\UserQuery\\UserQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T00:13:10.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ChangeUserRoleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangeUserRoleCommand.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangeUserRoleCommand.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Command\\ChangeUserRoleCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:46:33.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HashingService.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\HashingService\\HashingService.cs",
-              "RelativeDocumentMoniker": "Application\\HashingService\\HashingService.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\HashingService\\HashingService.cs",
-              "RelativeToolTip": "Application\\HashingService\\HashingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:58:26.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetAllUsersHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\GetAllUsersHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\GetAllUsersHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\GetAllUsersHandler.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Query\\GetAllUsersHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAASwBoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:42:07.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GetAllUsersQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\GetAllUsersQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Query\\GetAllUsersQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Query\\GetAllUsersQuery.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Query\\GetAllUsersQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:41:56.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AuthServiceApi\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "AuthServiceApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:26:30.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\UserResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Response\\UserResponse.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\UserResponse.cs",
-              "RelativeToolTip": "Application\\Models\\Response\\UserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:43:40.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "AuthServiceApi\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\AuthServiceApi\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "AuthServiceApi\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:33:34.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetAllRolesHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetAllRolesHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetAllRolesHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetAllRolesHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Role\\Query\\GetAllRolesHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:17:25.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RegisterCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\RegisterCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\RegisterCommand.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\RegisterCommand.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Command\\RegisterCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:49:23.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ChangePasswordHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Command\\ChangePasswordHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAASwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:14:44.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ChangePasswordCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\User\\Command\\ChangePasswordCommand.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\User\\Command\\ChangePasswordCommand.cs",
-              "RelativeToolTip": "Application\\Features\\User\\Command\\ChangePasswordCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:14:34.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GetAllRolesQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetAllRolesQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetAllRolesQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetAllRolesQuery.cs",
-              "RelativeToolTip": "Application\\Features\\Role\\Query\\GetAllRolesQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:17:11.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GetRoleByIdHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetRoleByIdHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetRoleByIdHandler.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetRoleByIdHandler.cs",
-              "RelativeToolTip": "Application\\Features\\Role\\Query\\GetRoleByIdHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:17:51.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GetRoleByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetRoleByIdQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Role\\Query\\GetRoleByIdQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Features\\Role\\Query\\GetRoleByIdQuery.cs",
-              "RelativeToolTip": "Application\\Features\\Role\\Query\\GetRoleByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:17:38.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RoleResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\RoleResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Response\\RoleResponse.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\RoleResponse.cs",
-              "RelativeToolTip": "Application\\Models\\Response\\RoleResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:18:21.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GenericResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\GenericResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Response\\GenericResponse.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\GenericResponse.cs",
-              "RelativeToolTip": "Application\\Models\\Response\\GenericResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:52:13.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "StatusResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\StatusResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Response\\StatusResponse.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Response\\StatusResponse.cs",
-              "RelativeToolTip": "Application\\Models\\Response\\StatusResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:55:32.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IRoleQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Query\\IRoleQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Query\\IRoleQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Query\\IRoleQuery.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Query\\IRoleQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:11:00.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "RoleQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Querys\\RoleQuery\\RoleQuery.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Querys\\RoleQuery\\RoleQuery.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Infrastructure\\Querys\\RoleQuery\\RoleQuery.cs",
-              "RelativeToolTip": "Infrastructure\\Querys\\RoleQuery\\RoleQuery.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBJwBIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:08:27.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Command\\IUserCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Command\\IUserCommand.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Interfaces\\Command\\IUserCommand.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Command\\IUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:59:30.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ChangeUserRoleRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\ChangeUserRoleRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Request\\ChangeUserRoleRequest.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\ChangeUserRoleRequest.cs",
-              "RelativeToolTip": "Application\\Models\\Request\\ChangeUserRoleRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:07:07.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ChangePasswordRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\ChangePasswordRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Request\\ChangePasswordRequest.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\ChangePasswordRequest.cs",
-              "RelativeToolTip": "Application\\Models\\Request\\ChangePasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:06:59.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ConflictException.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Exceptions\\ConflictException.cs",
-              "RelativeDocumentMoniker": "Application\\Exceptions\\ConflictException.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Exceptions\\ConflictException.cs",
-              "RelativeToolTip": "Application\\Exceptions\\ConflictException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:04:12.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Request\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\RegisterRequest.cs",
-              "RelativeToolTip": "Application\\Models\\Request\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:53:06.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Request\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\AuthService\\Application\\Models\\Request\\LoginRequest.cs",
-              "RelativeToolTip": "Application\\Models\\Request\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:50:06.211Z"
+              "WhenOpened": "2026-07-11T21:29:25.996Z",
+              "EditorCaption": ""
             }
           ]
         }

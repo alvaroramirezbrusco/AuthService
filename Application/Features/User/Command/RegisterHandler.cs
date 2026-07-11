@@ -46,18 +46,29 @@ namespace Application.Features.User.Handler
                 string.IsNullOrEmpty(model.Phone))
                 throw new ArgumentException("Complete los campos solicitados...");
 
-            if (!Vmails.Any(vm => model.Email.Contains(vm)))
-                throw new ArgumentException("Ingrese un Email válido");
-
-            var isUnique = await _userQuery.IsEmailUnique(model.Email);
-            if (!isUnique)
-                throw new ConflictException("El email ya está registrado");
+            if (string.IsNullOrWhiteSpace(model.Email) ||
+                !Vmails.Any(vm => model.Email.Contains(vm)) ||
+                model.Email.Any(char.IsUpper))
+            {
+                throw new ArgumentException("Ingrese un mail válido");
+            }
 
             if (model.Password.Length <= 8 || !carac.Any(c => model.Password.Contains(c)))
                 throw new ArgumentException("Contraseña insegura");
 
             if (model.Phone.Length <= 5 || model.Phone.Length >= 16)
                 throw new ArgumentException("Ingrese un número de teléfono válido");
+
+            if (string.IsNullOrWhiteSpace(model.Email) ||
+                !Vmails.Any(vm => model.Email.Contains(vm)) ||
+                model.Email.Any(char.IsUpper))
+            {
+                throw new ArgumentException("Ingrese un mail válido");
+            }
+
+            var isUnique = await _userQuery.IsEmailUnique(model.Email);
+            if (!isUnique)
+                throw new ConflictException("El email ya está registrado");
 
             var hashedPass = _hash.encryptSHA256(model.Password);
 

@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "oLEZFbQeoUyyW8YVQ5HJd7ROV8YGvj530UbWBbbkUZI=",
-  "Source": "AuthServiceApi",
-  "BasePath": "_content/AuthServiceApi",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"y+g7RmkqLPIdRLkYV24ymt5C2s1r3H951+VmNPqhzB0=","Source":"AuthServiceApi","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
